@@ -1,1 +1,1 @@
-# ReadMe
+Hello! I'm wissem,i'm  a full-stack web developer who has recently completed an intensive bootcamp. This document serves as a checkpoint to reflect on my journey, the skills I've acquired, and my readiness to take the next step in my career.
